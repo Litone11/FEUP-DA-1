@@ -1,2 +1,0 @@
-BestDrivingRoute:none
-AlternativeDrivingRoute:none
